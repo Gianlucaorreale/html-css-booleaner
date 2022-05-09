@@ -17,7 +17,6 @@
 
 
 
-
 #paragraph2 {
     color: gray;
 }
@@ -49,7 +48,7 @@ table {
   .monitor {
       background-image: url(../images/monitor.jpg);
       color: white;
-      
+      text-align: center;
       margin-top: 50px;
       height: 200px;
       width: 200px;
