@@ -42,4 +42,22 @@ table {
   
   tr:nth-child(even) {
     background-color: lightblue;
+
+  }
+  
+  
+  .monitor {
+      background-image: url(../images/monitor.jpg);
+      color: white;
+      
+      margin-top: 50px;
+      height: 200px;
+      width: 200px;
+  }
+  .graph {
+      background-image: url(../images/graph.jpg);
+      color:white;
+      text-align: center;
+      height: 200px;
+      width: 200px;
   }
